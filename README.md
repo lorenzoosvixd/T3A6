@@ -21,5 +21,5 @@ ISR:
 ![](https://github.com/lorenzoosvixd/T3A6/blob/main/be682dd8-603d-4b19-bff3-4b5db36f9dcd.jpg)
 
 3# solucion de problema
-![]()
+![](https://github.com/lorenzoosvixd/T3A6/tree/main/Industria)
 
